@@ -1,0 +1,6 @@
+{
+  "name": "Nequi Business Intelligence MVP",
+  "description": "An application to process Nequi statements, providing users with a basic summary of their income and a list of transactions. Includes AI-powered note suggestions for transactions.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
